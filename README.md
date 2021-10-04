@@ -3,9 +3,7 @@
 It is a form of copying in which a speific data is from the web into a local database or spreadsheet and use for later retrieval or analysis.
 
 # Problem Statement
-<<<<<<< HEAD
-GitHub contains millions of repositories.In this project we are going to use the GitHub topics page and from the topic page we are going    find the list of topic for each repositories and then we are going to downlaod it. 
-=======
+
 GitHub contains millions of repositories. In this project we are going to use the GitHub topics page and from the topic page we are going to find the list of topic for each repositories and then going to downlaod it. 
 >>>>>>> 21c54ca2fe843634296eeea269260777355a46bb
       
@@ -29,7 +27,7 @@ If you want to know more about the Python librabires used for web scraping you c
 https://towardsdatascience.com/choose-the-best-python-web-scraping-library-for-your-application-91a68bc81c4f
 
 
-<<<<<<< HEAD
+
    
 =======
 # Project Outline
